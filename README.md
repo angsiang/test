@@ -6,3 +6,5 @@ This is a markdown to describe the repo
 *Removed the new.md file.
 
 Add new line from task1
+
+Add new line from task2
